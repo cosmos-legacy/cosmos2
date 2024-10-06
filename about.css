@@ -1,0 +1,13 @@
+.img{
+    width: 900px;
+    height: 1200px;
+    background-image: url("image/about.png");
+    background-position: center;
+    background-size: cover;
+    margin-left: 150px;
+
+    
+}
+body{
+    background-color: black;
+}
